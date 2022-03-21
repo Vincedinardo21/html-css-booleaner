@@ -7,3 +7,17 @@
 .sfondologo img{
     width: 20%;
 }
+
+/* Stile tabella */
+table{
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: #20aae5;
+    color: white;
+}
+
+.blue-row{
+    background-color: #b1e5f2;
+}
