@@ -2,6 +2,7 @@
 .sfondologo{
     background-image: url("../img/pattern.png");
     background-color: cadetblue;
+    height: 170px;
 }
 
 .sfondologo img{
