@@ -1,0 +1,9 @@
+/* Sfondo e logo */
+.sfondologo{
+    background-image: url("../img/pattern.png");
+    background-color: cadetblue;
+}
+
+.sfondologo img{
+    width: 20%;
+}
