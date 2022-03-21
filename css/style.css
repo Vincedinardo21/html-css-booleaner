@@ -8,6 +8,11 @@
     width: 20%;
 }
 
+/* Testo evidenziato */
+span{
+    background-color: yellow;
+}
+
 /* Stile tabella */
 table{
     border-collapse: collapse;
@@ -20,4 +25,9 @@ thead{
 
 .blue-row{
     background-color: #b1e5f2;
+}
+
+/* Footer */
+#foot-p{
+    color: dimgray;
 }
